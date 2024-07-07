@@ -1,0 +1,93 @@
+repo_name: ashellwig/ashtons-blog-cljs-basic
+report_id: 0f0c590d3c12cc772a2717d255a469db
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-07T04:25:25+00:00'
+requested_by: ashellwig
+provider: github
+branch: master
+detected_tools_count: 7
+tools:
+- name: Clojure
+  description: A dynamic programming language that targets the Java Virtual Machine
+  website_url: http://clojure.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1003/Clojure_300x300.png
+  detection_source_url: https://github.com/ashellwig/ashtons-blog-cljs-basic
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ashellwig/ashtons-blog-cljs-basic
+  detection_source: Repo Metadata
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/ashellwig/ashtons-blog-cljs-basic/blob/master/project.clj
+  detection_source: project.clj
+  last_updated_by: Ashton Hellwig
+  last_updated_on: 2018-07-28 07:14:48.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ashellwig/ashtons-blog-cljs-basic
+  detection_source: Repo Metadata
+- name: cljs-react-material-ui
+  description: Iterop library for material-ui.com
+  package_url: https://clojars.org/cljs-react-material-ui
+  version: 0.2.48
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/clojars/image.png
+  detection_source_url: https://github.com/ashellwig/ashtons-blog-cljs-basic/blob/master/project.clj
+  detection_source: project.clj
+  last_updated_by: Ashton Hellwig
+  last_updated_on: 2018-07-28 07:14:48.000000000 Z
+- name: cljsjs/react
+  description: A Javascript library for building user interfaces
+  package_url: https://clojars.org/cljsjs/react
+  version: 15.6.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/clojars/image.png
+  detection_source_url: https://github.com/ashellwig/ashtons-blog-cljs-basic/blob/master/project.clj
+  detection_source: project.clj
+  last_updated_by: Ashton Hellwig
+  last_updated_on: 2018-07-28 07:14:48.000000000 Z
+- name: cljsjs/react-dom
+  description: A Javascript library for building user interfaces
+  package_url: https://clojars.org/cljsjs/react-dom
+  version: 15.6.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/clojars/image.png
+  detection_source_url: https://github.com/ashellwig/ashtons-blog-cljs-basic/blob/master/project.clj
+  detection_source: project.clj
+  last_updated_by: Ashton Hellwig
+  last_updated_on: 2018-07-28 07:14:48.000000000 Z
